@@ -2,7 +2,7 @@
 ## Captcha_Bypasser
 <div align="center">
 
-<img src="images/0.png">
+<img src="images/black_log.png">
 
 ##### Captcha: An advanced Bot to Bypass Google Captcha built with Selenium
 [![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://github.com/MonTassar-Dhouibi/Captcha_Bypasser/blob/master/LICENSE)
