@@ -1,7 +1,7 @@
 
-
-<div align="center">
 ## Captcha_Bypasser
+<div align="center">
+
 <img src="images/0.png">
 
 ##### Captcha: An advanced Bot to Bypass Google Captcha built with Selenium
