@@ -1,11 +1,10 @@
-##                          Captcha_Bypasser
-
 
 
 <div align="center">
+## Captcha_Bypasser
 <img src="images/0.png">
 
-##### HRShell: An advanced HTTP(S) Reverse Shell built with Flask
+##### Captcha: An advanced Bot to Bypass Google Captcha built with Selenium
 [![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)]([https://github.com/chrispetrou/HRShell/blob/master/LICENSE](https://github.com/MonTassar-Dhouibi/Captcha_Bypasser/blob/master/LICENSE)) 
 [![](https://img.shields.io/badge/python-3-yellow.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Build%20with-Flask-blueviolet.svg?style=flat-square&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
